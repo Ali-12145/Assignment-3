@@ -1,0 +1,83 @@
+.navbar-brand img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    
+}
+
+.navbar{
+    background: linear-gradient(to right, #1b4f89, #393426);
+    position: sticky;
+    top: 0px;
+    z-index: 10;
+}
+
+
+.nav-item a{
+    color: whitesmoke;
+}
+.nav-item a:hover{
+    color: #f8b400;
+}
+
+.nav-item{
+    margin-right: 10px;}
+
+.hero-image{
+    width: 450px;
+    height: 400px;
+    }
+
+.carousel-img{
+    height: 500px !important;
+    object-fit: cover;
+}
+
+
+p{
+        font-size: 22px;
+        
+}
+
+.Favourite-cards{
+    background: linear-gradient(to left, #1b4f89, #393426);
+}
+
+
+.personality-details{
+    background: linear-gradient(to right, #89891b, #075170);
+    color: whitesmoke;
+    padding: 20px;
+
+}
+
+.personality-details-2{
+    background: linear-gradient(to right, #2e7b4e, #6c53b8);
+    color: whitesmoke;
+    padding: 20px;
+
+}
+
+
+.fav-city{
+    background: linear-gradient(to right, #1b8964, #8866bf);
+    color: whitesmoke;
+    padding: 20px;
+}
+
+
+.Heading{
+    color: blueviolet;
+    border-bottom:2px solid #075170;
+}
+
+
+.contact{
+    background: linear-gradient(to right, #6a5d31, #ba1f39);
+    color: whitesmoke;
+    padding: 20px;
+}
+
+.tourist-spot{
+    background: #1b4f89;
+}
